@@ -1,0 +1,25 @@
+for making videos (using Windows 10)
+	1. run the .R file as detailed in its docstring instructions
+	
+	2. put newly generated .png files (~1k) into a single directory
+	
+	3. make a copy of the direcory (optional; preserves image file name dates)
+	
+	4. navigate to new directory in file explorer
+	
+	5. ctrl + A >> rename with some common title >> observe as they are all 
+		renamed with sequential numbers
+	
+	6. install & open "Shotcut", the freely available video editing software
+	
+	7. drag and drop the first image file into your playlist
+	
+	8. select "properties" pane/tab (of the image)
+	
+	9. check the box to indicate it is a series of images
+	
+	10. observe as Shotcut creates a video from all the images in same directory
+	
+	11. add a Video track & drag your video from the source window to the new
+		Video track; do any editing such as zooming with the "Size and Position"
+		filter; then export the video as .mp4 or similar file type
