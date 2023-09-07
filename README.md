@@ -1,5 +1,5 @@
 # Repo Overview
-R script that generates indexed PNGs that, when combined, create a video displaying some preventative measure as country color and some health outcome as country size, all over time. The goal is to quickly display the relationship between COVID prevention measures and outcomes in a visually intuitive way.
+`COVID19_world_cartogram-choropleth_generator.R` is an R script that generates indexed PNGs that, when combined, create a video displaying some preventative measure as country color and some health outcome as country size, all over time. The goal is to quickly display the relationship between COVID prevention measures and outcomes in a visually intuitive way.
 
 # See videos for example output:
 
